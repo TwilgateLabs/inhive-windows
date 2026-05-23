@@ -43,7 +43,6 @@ Get-FileHash inhive-windows-x.y.z-x64.zip -Algorithm SHA256
 
 ## 🔗 Связанные репозитории
 
-- [twilgate/inhive-app](https://github.com/twilgate/inhive-app) — Flutter-приложение (private; Windows-код в `windows/`)
 - [TwilgateLabs/inhive-core](https://github.com/TwilgateLabs/inhive-core) — Go-ядро (sing-box 1.13 fork; сборка `inhive-core.dll` через `go build`)
 - [twilgate/inhive-web](https://github.com/twilgate/inhive-web) — Web (private; `inhive.ru`)
 
