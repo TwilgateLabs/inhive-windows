@@ -2,7 +2,7 @@
 
 | Android | Windows | iOS | macOS |
 |---|---|---|---|
-| [Download APK](https://github.com/TwilgateLabs/inhive-android/releases/latest/download/InHive.apk) | [Download Setup](https://github.com/TwilgateLabs/inhive-windows/releases/latest/download/InHive-setup.exe) | TestFlight — soon | DMG — soon |
+| [Download APK](https://github.com/TwilgateLabs/inhive-android/releases/latest/download/InHive.apk) | [Download Setup](https://github.com/TwilgateLabs/inhive-windows/releases/latest/download/InHive-setup.exe) | [TestFlight — request invite](https://t.me/InHive_support_bot) | DMG — soon |
 
 InHive is a free, open-source VPN client. It connects to any provider that gives you a subscription URL — InHive does not sell subscriptions or run VPN servers.
 
